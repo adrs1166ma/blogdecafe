@@ -233,6 +233,18 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
 }
+.error {
+    background-color: rgb(185, 0, 0);
+    padding: 1rem .5rem;
+    text-align: center;
+    color: var(--blanco);
+}
+.correcto {
+    background-color: rgb(74, 185, 0);
+    padding: 1rem .5rem;
+    text-align: center;
+    color: var(--blanco);
+}
 
 .formulario {
     background-color: var(--blanco);
